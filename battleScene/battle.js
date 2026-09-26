@@ -1,4 +1,5 @@
-class Battle{
+
+/*class Battle{
     constructor(){
 
     }
@@ -18,4 +19,4 @@ class Battle{
         this.createElement();
         container.appendChild(this.element);
         }
-}
+} */
