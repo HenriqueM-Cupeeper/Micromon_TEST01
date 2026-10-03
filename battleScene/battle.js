@@ -1,5 +1,5 @@
 
-/*class Battle{
+class Battle{
     constructor(){
 
     }
@@ -9,7 +9,7 @@
         this.element.classList.add("battle");
         this.element.innerHTML =  (`
         <div class = "battle_hero">
-            <img src=${/images/testpng1.png}
+            <img src=${/images/Penicillium.png}
         </div> 
     `)
     }
@@ -19,4 +19,4 @@
         this.createElement();
         container.appendChild(this.element);
         }
-} */
+} 

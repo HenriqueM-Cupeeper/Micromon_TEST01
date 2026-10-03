@@ -1,7 +1,6 @@
 
-/*const battle = new Battle({
+const battle = new Battle({
     onComplete: ()=> {
     }
 })
 battle.init(document.querySelector(".game-container"))
- */

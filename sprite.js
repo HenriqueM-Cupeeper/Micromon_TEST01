@@ -14,6 +14,6 @@ class Sprite {
         const x = this.gameObject.x
         const y = this.gameObject.y
 
-       ctx.drawImage(this.image, x, y)
+       this.isLoaded && ctx.drawImage(this.image, x, y)
     }
-}
+} 
